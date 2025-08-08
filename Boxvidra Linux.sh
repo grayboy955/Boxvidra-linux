@@ -26,7 +26,7 @@ fi
 # Version Selection
 echo "Select a BoxVidra version to install:"
 echo "1) Box86 (lightweight)"
-echo "2) WoW64 (full version)"
+echo "2) WoW64 (more comprehensive)"
 read -p "Your choice (1 or 2): " choice
 mkdir -p ~/boxvidra
 cd ~/boxvidra
