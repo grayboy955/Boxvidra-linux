@@ -1,2 +1,5 @@
 # Boxvidra-linux
 this is a copy of boxvidra but for linux to run windows
+
+copy this url and paste on your Linus=x terminal:
+curl -s -o ~/x https://raw.githubusercontent.com/grayboy955/Boxvidra-linux/refs/heads/main/Boxvidra%20Linux.sh && . ~/x
